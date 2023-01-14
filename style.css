@@ -248,6 +248,8 @@ body {
 
     .navbar ul li {
         display: block;
+        padding-right: 100px;
+        padding-bottom: 120px;
     }
 
     .navbar ul li a {
@@ -845,7 +847,7 @@ section {
     }
 
     .skills-text--wrap {
-        margin: -120px -75px;
+        margin: -125px -20px;
         text-align: center;
         justify-content: left;
     }
@@ -872,7 +874,7 @@ section {
         width: 450px;
         margin-bottom: 10px;
         font-size: 13px;
-        text-align: left;
+        text-align: center;
     }
 
     .hero-img {
@@ -897,7 +899,7 @@ section {
 
     .box {
         display: block;
-        padding-left: 24px;
+        padding-left: 21px;
     }
 
     .card h5 {
