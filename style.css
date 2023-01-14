@@ -753,19 +753,11 @@ section {
     }
 
     .icons {
-        padding-left: 350px;
-        height: 5vh;
-        padding: 15px;
+        display: none;
     }
 
     .icons-contact {
-        padding-left: 80px;
-        height: 13vh;
-        padding: 70px;
-    }
-
-    .icons-contact a {
-        font-size: 17px;
+        display: none;
     }
 
     .experience {
@@ -905,7 +897,7 @@ section {
 
     .box {
         display: block;
-        padding-left: 30px;
+        padding-left: 27px;
     }
 
     .card h5 {
