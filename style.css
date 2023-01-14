@@ -249,7 +249,7 @@ body {
     .navbar ul li {
         display: block;
         padding-right: 100px;
-        padding-bottom: 120px;
+        padding-bottom: 80px;
     }
 
     .navbar ul li a {
@@ -899,7 +899,7 @@ section {
 
     .box {
         display: block;
-        padding-left: 21px;
+        padding-left: 20px;
     }
 
     .card h5 {
