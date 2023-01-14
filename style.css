@@ -753,15 +753,15 @@ section {
     }
 
     .icons {
-        padding-left: 150px;
+        padding-left: 200px;
         height: 5vh;
-        padding: 10px;
+        padding: 50px;
     }
 
     .icons-contact {
-        padding-left: 150px;
+        padding-left: 20px;
         height: 13vh;
-        padding: 50px;
+        padding: 70px;
     }
 
     .icons-contact a {
@@ -829,7 +829,7 @@ section {
     }
 
     .icons {
-        padding-left: 100px;
+        padding-left: 170px;
     }
 
     /* About */
@@ -905,7 +905,7 @@ section {
 
     .box {
         display: block;
-        padding-left: 10px;
+        padding-left: 25px;
     }
 
     .card h5 {
@@ -928,7 +928,7 @@ section {
     }
 
     .icons-contact {
-        padding: 60px;
+        padding: 100px;
         padding-left: 140px;
     }   
 }
