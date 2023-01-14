@@ -753,13 +753,13 @@ section {
     }
 
     .icons {
-        padding-left: 300px;
+        padding-left: 350px;
         height: 5vh;
-        padding: 20px;
+        padding: 15px;
     }
 
     .icons-contact {
-        padding-left: 50px;
+        padding-left: 80px;
         height: 13vh;
         padding: 70px;
     }
@@ -905,7 +905,7 @@ section {
 
     .box {
         display: block;
-        padding-left: 28px;
+        padding-left: 30px;
     }
 
     .card h5 {
