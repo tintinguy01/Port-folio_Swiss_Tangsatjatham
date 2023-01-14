@@ -249,7 +249,7 @@ body {
     .navbar ul li {
         display: block;
         padding-right: 100px;
-        padding-bottom: 40px;
+        padding-bottom: 20px;
     }
 
     .navbar ul li a {
