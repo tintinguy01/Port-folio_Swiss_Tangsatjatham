@@ -724,14 +724,15 @@ section {
     .hero-img img {
         height: auto;
         top: 60px;
-        left: 300px;
+        left: 500px;
         width: 460px;
+  
     }
     
     @keyframes animateUser {
         50% {
-            left: 255px;
-            top: 30px;
+            left: 455px;
+            top: 40px;
         }
     }
 
@@ -832,16 +833,16 @@ section {
 
     .hero-img img {
         height: auto;
-        top: 30px;
+        top: 50px;
         left: 30px;
-        max-width: 400px;
+        max-width: 300px;
  
     }
     
     @keyframes animateUser {
         50% {
             left: 0px;
-            top: 10px;
+            top: 30px;
         }
     }
 
@@ -868,7 +869,7 @@ section {
     /* About */
 
     .about-text {
-        padding-top: 60px;
+        padding-top: 90px;
     }
 
     .about h1 {
@@ -877,6 +878,7 @@ section {
 
     .about h2 {
         font-size: 15px;
+        padding-bottom: 15px;
     }
 
     .skills-text {
